@@ -2,7 +2,7 @@
 
 Machine learning assignment
 ===================
-Covid-19 Outbreak Prediction
+Title: Covid-19 Outbreak Prediction
 
 Dataset: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
 
